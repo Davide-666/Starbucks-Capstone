@@ -64,7 +64,7 @@ Futher analysis on macro data (duration of the offer, distribution of order pric
 ML analysis using different ML engine and different percentage of data for train/test/validate, using also random sampling
 
 # REFERENCE AND ALIKE
-Notebook and data set are available on GitHub: https://github.com/Davide-666/Starbucks-Capstone
-Dataset provided by Udacity
-Stock Starbucks Photo in the header by quan le on Unsplash
-Guidelines for professional Medium post at https://joshkerr.com/how-to-make-your-medium-publication-look-professional/
+Notebook and data set are available on GitHub: https://github.com/Davide-666/Starbucks-Capstone <br>
+Dataset provided by Udacity <br>
+Stock Starbucks Photo in the header by quan le on Unsplash <br>
+Guidelines for professional Medium post at https://joshkerr.com/how-to-make-your-medium-publication-look-professional/ <br>
