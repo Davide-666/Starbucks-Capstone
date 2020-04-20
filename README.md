@@ -53,7 +53,7 @@ the count of transaction is much higher for men but the count of offer closed by
 Possible improvement: switch more offers to women
 
 #### Subscription
-Subscription was flat in 2014 and 2016 and had an increse in Summer time for 2015 and (steeper) 2017. During the first semester of 2018 this KPI worsened
+Subscription was flat in 2014 and 2016 and had an increse in Summer time for 2015 and (steeper) 2017. During the first semester of 2018 this KPI worsened<br>
 ![subscription by months](https://raw.githubusercontent.com/Davide-666/Starbucks-Capstone/master/subscription%20by%20months.png)<br>
 Possible improvement: further investigation are needed
 
