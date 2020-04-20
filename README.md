@@ -36,6 +36,7 @@ Performance of the offers
 * BOGO offer have an higher view rate than discount but a lower conversion rate 
 * The count of transaction is less than twice the count of offer received
 ![offer type vs event](https://raw.githubusercontent.com/Davide-666/Starbucks-Capstone/master/offer%20type%20vs%20event.png)<br>
+Possible improvement: focus on discount
 
 Gender
 * The count of female subscription is lower than men
@@ -43,11 +44,13 @@ Gender
 * The count of transaction is much higer for man but the count of offer closed by genre is almost the same
 ![subscription by gender](https://raw.githubusercontent.com/Davide-666/Starbucks-Capstone/master/subscription%20by%20gender.png)<br>
 ![event vs gender](https://raw.githubusercontent.com/Davide-666/Starbucks-Capstone/master/event%20vs%20gender.png)<br>
+Possible improvement: switch more offers to female 
 
 Subscription
 * Subscription was flat in 2014 and 2016 and have an increse in Summer time for 2015 and (steeper) 2017
 * During the first semester of 2018 this KPI is going bad
 ![subscription by months](https://raw.githubusercontent.com/Davide-666/Starbucks-Capstone/master/subscription%20by%20months.png)<br>
+Possible improvement: further investigation are needed 
 
 ## Next steps:
 * Missing data on income were filled with overall mean value. Other methods to be tested (drop NA, filling with overall moda, filling with mean/moda by "nearest category, ...)
