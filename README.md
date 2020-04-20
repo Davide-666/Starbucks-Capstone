@@ -65,6 +65,7 @@ ML analysis using different ML engine and different percentage of data for train
 
 # REFERENCE AND ALIKE
 Notebook and data set are available on GitHub: https://github.com/Davide-666/Starbucks-Capstone <br>
+Blog posted on Medium.com: https://medium.com/@davide.freni/starbucks-capstone-challenge-9854046a00cf
 Dataset provided by Udacity <br>
 Stock Starbucks Photo in the header by quan le on Unsplash <br>
 Guidelines for professional Medium post at https://joshkerr.com/how-to-make-your-medium-publication-look-professional/ <br>
